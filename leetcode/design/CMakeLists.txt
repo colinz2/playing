@@ -10,3 +10,6 @@ add_executable(705 0705_Design_HashSet/main.cpp)
 
 #0707
 add_executable(707 0707_Design_Linked_List/main.cpp)
+
+#0622
+add_executable(0622_Design_Circular_Queue 0622_Design_Circular_Queue/main.cpp)
